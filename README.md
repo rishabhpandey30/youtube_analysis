@@ -12,7 +12,7 @@ In this project, I performed:
 **XGBoost Classifier** to determine if a video will trend or not.
 
 
-## 📊 Dataset
+## Dataset
 
 **Source**: Kaggle – [YouTube Trending Video Dataset](https://www.kaggle.com/datasets/datasnaek/youtube-new)
 **Focus**: Indian region (`INvideos.csv`)
