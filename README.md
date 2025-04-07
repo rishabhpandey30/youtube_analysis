@@ -1,5 +1,4 @@
-# Youtube_analysis
-# YouTube Trending Video Analysis & Prediction (India 2017–2018)
+## YouTube Trending Video Analysis & Prediction (India 2017–2018)
 
 This project focuses on analyzing and predicting trends in YouTube videos using Data Science and Machine Learning techniques. Using real-world data from India's trending videos in 2017 and 2018, the aim is to understand what makes a video go viral and whether we can accurately predict its performance.
 
@@ -37,8 +36,8 @@ Features include: `title`, `channel_title`, `category_id`, `views`, `likes`, `di
 - Gain deeper insights into YouTube's trending dynamics.
   
 
-## 🚀 Future Enhancements
+## Future Enhancements
 
-- 🎯 Build a **web application** to allow users to input video details or links and get predictions instantly.
-- 🔗 Use YouTube Data API to auto-fetch video stats via URL.
-- 🎨 Improve visualizations and interactivity with dashboards.
+- Build a **web application** to allow users to input video details or links and get predictions instantly.
+-  Use YouTube Data API to auto-fetch video stats via URL.
+- Improve visualizations and interactivity with dashboards.
